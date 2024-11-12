@@ -1,2 +1,2 @@
-# Online Voting System using Blockchain
-Ethereum's Rinkeby test network based Voting Smart Contract to manage elections easily and securely. 
+# NFT Trading Game
+A smart contract based trading game powered by blockchain using React for front-end and solidity, Nodejs for back-end.
