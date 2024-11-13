@@ -1,5 +1,8 @@
 # NFT Trading Game
 A smart contract based trading game powered by blockchain using React for front-end and solidity, Nodejs for back-end.
+
+We use Node version 16.
+
 # Content of Skill Test
 1. You must add magic item to a god without changing its current style.
 2. You must provide a formula for combining items.
